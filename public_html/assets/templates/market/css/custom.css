@@ -1,0 +1,102 @@
+.header .header-top-var-4_1 .top-bar {
+    background-color: #595959;
+}
+
+.header .header-top-var-4_1 .social p {
+    color: #fff;
+    font-size: 11px;
+}
+
+.header .header-top-var-4_1 .top-bar .top-menu ul li a {
+    font-size: 11px;
+    color: #fff;
+}
+
+.header .header-top-var-4_1 .top-bar .top-menu ul li a:after {
+    background-color: #a9abad;
+}
+
+/**/
+.header-scroll.header-variable-1 .header-scroll-main-menu,
+.header-scroll.header-variable-1 .header-scroll-main-menu .flexMenu-viewMore > a {
+    width: 199px;
+}
+
+.header-scroll.header-variable-1 .header-scroll-main-menu .flexMenu-viewMore > a {
+    padding: 17px 15px 16px 25px;
+    white-space: nowrap;
+}
+
+.header-scroll.header-variable-1 .flexMenu-viewMore:hover,
+.header-scroll.header-variable-1 .flexMenu-viewMore {
+    background-position: 15px 20px;
+}
+
+.main-first-image-slider-el img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.footer.footer-var-2 .footer-top {
+    background: #777777;
+}
+
+.footer.footer-var-2 .footer-center {
+    background: #505050;
+}
+
+.footer.footer-var-2 .webcompany {
+    background: #444;
+}
+
+.footer.footer-var-2,
+.footer.footer-var-2 .footer-top .flex-block .phone p span {
+    color: #fff;
+}
+
+.footer.footer-var-2 .footer-top .flex-block .phone p,
+.footer-var-2 .footer-aside .details,
+.footer.footer-var-2 .webcompany .container,
+.footer-var-2 .webcompany .sitemap a,
+.footer-var-2 .footer-subscribe__title,
+.footer.footer-var-2 .footer-center ul li a {
+    color: rgba(255, 255, 255, .83);
+}
+
+.footer.footer-var-2 .footer-top .flex-block .callback-block a {
+    color: #fff;
+    border-color: #fff;
+}
+
+.footer-var-2 .footer-aside .phone::after {
+    background-image: url("../img/update/footer-phone__white.png");
+}
+
+.footer-var-2 .footer-aside .location::after {
+    background-image: url("../img/update/footer-loc__white.png");
+}
+
+.footer-var-2 .footer-aside .mail::after {
+    background-image: url("../img/update/footer-mail__white.png");
+}
+
+.footer.footer-var-2 .footer-center ul li a:hover {
+    border-color: rgba(255, 255, 255, 0.6);
+}
+
+
+.primary-block .uk-pagination li:before{
+	content: none;
+	display: none;
+}
+
+.pagination .uk-pagination li:last-child > span {
+	background: #fff;
+    font-weight: bold;
+}
+
+.pagination .uk-pagination li:first-child > span, .pagination .uk-pagination li:last-child > span {
+    background: #fff;
+	font-weight: bold;
+}
+
